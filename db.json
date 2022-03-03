@@ -1,5 +1,4 @@
-{
-  "receitas": [
+"receitas": [
   {
     "id": 1,
     "dateTime": "12/05/2020 - 15:20",
@@ -29,4 +28,3 @@
     "especialidade": "Cirurgião Dentista",
   }
  ]
-}
