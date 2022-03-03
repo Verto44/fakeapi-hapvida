@@ -1,30 +1,14 @@
-[
-  {
+{
+  "receitas": [
+    {
     "id": 1,
     "dateTime": "12/05/2020 - 15:20",
     "type": "Teleconsulta",
     "especialista": "Dr. Edrielisson Jales de Oliveira",
     "especialidade": "Clínico Geral"
-  },
-  {
-    "id": 2,
-    "dateTime": "20/08/2021 - 10:30",
-    "type": "Clínica Credênciada de Saúde",
-    "especialista": "Dra. Semira uriel de Almeida Jales",
-    "especialidade": "Clínico Geral"
-  },
-  {
-    "id": 3,
-    "dateTime": "02/11/2021 - 11:15",
-    "type": "Clínica Credênciada de Saúde",
-    "especialista": "Dra. Jéssica Jales",
-    "especialidade": "Clínico Geral"
-  },
-  {
-    "id": 4,
-    "dateTime": "03/02/2021 - 11:15",
-    "type": "Odontologia e Saúde",
-    "especialista": "Dr. Hemerson Teixeira Jales",
-    "especialidade": "Cirurgião Dentista"
   }
- ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
